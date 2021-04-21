@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Janne",
+    "userName": "janne@mail.com",
+    "password": "j1234",
+    "newsLetter": false
+  },
+
+  {
+    "name": "Kalle",
+    "userName": "kalle@mail.com",
+    "password": "k1234",
+    "newsLetter": true
+  },
+  {
+    "name": "Nina",
+    "userName": "nina@mail.com",
+    "password": "n1234",
+    "newsLetter": false
+  },
+  {
+    "name": "Isabel",
+    "userName": "isabel@mail.com",
+    "password": "i1234",
+    "newsLetter": true
+  },
+  {
+    "name": "Julian",
+    "userName": "julian@mail.com",
+    "password": "j1234",
+    "newsLetter": true
+  }
+]
